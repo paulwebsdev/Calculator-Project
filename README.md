@@ -7,7 +7,7 @@ A modern calculator application built with HTML, CSS, and JavaScript.
 https://paulwebsdev.github.io/Calculator-Project/
 
 ## 📸 Screenshot
-calculator-project.png
+![calculator UI](calculator-project.png)
 
 
 ## ✨ Features
