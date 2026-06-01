@@ -4,7 +4,7 @@ A modern calculator application built with HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-https://paulwebsdev.github.io/Calculator-Project/
+calculator-project-sim.netlify.app
 
 ## 📸 Screenshot
 ![calculator UI](calculator-Project.png)
